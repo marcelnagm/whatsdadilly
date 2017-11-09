@@ -1,0 +1,239 @@
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined index: screen_name in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 5
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined index: request_vars in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 6
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined variable: screen_name in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 15
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 33
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 33
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$retweeted_status in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 35
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 35
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 45
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 45
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 103
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 103
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 104
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 104
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 33
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 33
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$retweeted_status in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 35
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 35
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 45
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 45
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 103
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 103
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 104
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 104
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 33
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 33
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$retweeted_status in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 35
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 35
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 45
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 45
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 103
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 103
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 104
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 104
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 33
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 33
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$retweeted_status in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 35
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 35
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 45
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 45
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 103
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 103
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 104
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 104
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 33
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 33
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$retweeted_status in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 35
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 35
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 45
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 45
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 103
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 103
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 104
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 104
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 33
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 33
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$retweeted_status in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 35
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 35
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 45
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 45
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 103
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 103
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 104
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 104
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 33
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 33
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$retweeted_status in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 35
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 35
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 45
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 45
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 103
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 103
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 104
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 104
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:38:56 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Undefined index: screen_name in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 5
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Undefined index: request_vars in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 6
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Undefined variable: screen_name in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 15
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 33
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 33
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Undefined property: stdClass::$retweeted_status in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 35
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 35
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 45
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 45
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 103
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 103
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 104
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 104
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 33
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 33
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Undefined property: stdClass::$retweeted_status in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 35
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 35
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 45
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 45
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 103
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 103
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 104
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 104
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 108
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:42:46 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/tweet_load_new.php on line 109
+[18-Nov-2013 14:53:40 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php:9) in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 10
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$sizes in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 52
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 52
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 52
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 114
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 114
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$retweeted_status in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 116
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 116
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 122
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 122
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 174
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 174
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$media in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 175
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 175
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 114
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 114
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$retweeted_status in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 116
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 116
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 122
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 122
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$media in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 175
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 175
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 114
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 114
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$retweeted_status in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 116
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 116
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 122
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 122
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 174
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 174
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$media in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 175
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 175
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 114
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 114
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$retweeted_status in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 116
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 116
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 122
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 122
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 174
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 174
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$media in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 175
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 175
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 114
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 114
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$retweeted_status in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 116
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 116
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 122
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 122
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 174
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 174
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$media in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 175
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 175
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 114
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 114
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 216
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 216
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$media in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 265
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 265
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 114
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 114
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$retweeted_status in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 116
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 116
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 122
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 122
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 174
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 174
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 176
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 176
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 176
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 177
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 177
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 177
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 114
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 114
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$retweeted_status in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 116
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 116
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 122
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 122
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$media in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 175
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 175
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 114
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 114
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined property: stdClass::$current_user_retweet in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 216
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 216
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Undefined offset: 0 in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 264
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 264
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 266
+[18-Nov-2013 14:53:41 UTC] PHP Notice:  Trying to get property of non-object in /home/whatsda2/public_html/beta/twitter_ajax/twitpic.php on line 266
+[18-Nov-2013 14:53:41 UTC] PHP Noti
